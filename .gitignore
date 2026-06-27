@@ -1,2 +1,4 @@
 *.pem 
 package-src.zip 
+__pycache__/ 
+*.pyc 
